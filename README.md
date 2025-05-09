@@ -18,6 +18,8 @@ How did a project flow look like?
 Well, you start off by creating a new file, write some vhdl code for whatever you're trying to do, then you hit compile, once done, you go for the pin planner where you match the GPIO pins, their driving voltages, bank numbers, and a lot more parameters then close it (it autosaves don't worry!). To top it off, you recompile, then go to programmer, since we adapt to the volatile method of programming the board, the blaster device has to be connected which will hold the binary file (assembler makes that for you) and we will flash that image onto the board, which will only run as long as you do not power cycle the board (cause then it would restart it to default), but what about a non volatile code you may ask? well, I am not that proficient to answer that completely, but I believe it would require an external configurable flash memeory to hold the image for post power cycled runs, but FPGAs generally do not contain these flash memory blocks, so If I find a better justification/method to non-volatile programming the board, I shall update here :D
 Project List
 
+NOTE : Some of the drivers will omit the consideration of debouncing 
+
 1) Switch Driver code for a LED
 2) State Machine driver code for multiple LEDs
 3) PLL generation via the Quartus IP wizards
