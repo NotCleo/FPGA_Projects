@@ -19,16 +19,17 @@ Well, you start off by creating a new file, write some vhdl code for whatever yo
 Project List
 
 1) Switch Driver code for a LED
-2) PLL generation via the Quartus IP wizards
-3) PWM LED
-4) LED shift registers
-5) Debouning Asynchronous inputs
-6) 4 digit counter using 7-segment display
-7) UART Transmitter/Reciever
-8) Baud Clock Generator
-9) RS232
-10) Shift register
-11) Serializer
+2) State Machine driver code for multiple LEDs
+3) PLL generation via the Quartus IP wizards
+4) PWM LED
+5) LED shift registers
+6) Debouning Asynchronous inputs
+7) 4 digit counter using 7-segment display
+8) UART Transmitter/Reciever
+9) Baud Clock Generator
+10) RS232
+11) Shift register
+12) Serializer
 
 
 Additional projects will be updated whenever I'm sane and not sleepy ;) 
