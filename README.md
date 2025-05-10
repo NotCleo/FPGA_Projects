@@ -22,7 +22,7 @@ NOTE : Some of the drivers will omit the consideration of debouncing
 
 1) Switch Driver code for a LED
 2) State Machine driver code for multiple LEDs
-3) PLL generation via the Quartus IP wizards
+3) PLL generation via the Quartus IP wizard for different projects listed here
 4) PWM LED
 5) LED shift registers
 6) Debouning Asynchronous inputs
