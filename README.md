@@ -1,7 +1,11 @@
 # FPGA projects
 
+
+
 This repository holds all the VHDL project codes tailored for the Cyclone IV Altera board, Device-EP4CE30F29C8
 PS - Performing it on the Intel Quartus Prime 20.1 edition (cause the 24 edition downloads on Ubuntu was painful)
+
+Extras - I have added my notes too, which contain all the neccessary block diagrams, schematics and related diagrams
 
 BTW I downloaded the Intel Quartus Prime software for FPGA dev 20.1 and here are the commands,
 
