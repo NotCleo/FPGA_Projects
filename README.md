@@ -35,6 +35,7 @@ NOTE : Some of the drivers will omit the consideration of debouncing
     a) Baud Clock Generator
     b) Shift register/Serializer
     c) Synchronizer
+9) Single/Double port RAM
 
 
 Additional projects will be updated whenever I'm sane and not sleepy ;) 
