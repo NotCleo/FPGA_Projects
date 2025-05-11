@@ -26,7 +26,7 @@ NOTE : Some of the drivers will omit the consideration of debouncing
 4) PWM LED
 5) LED shift registers
 6) Debouning Asynchronous inputs
-7) 4 digit counter using 7-segment display
+7) 4 digit counter using 7-segment display (Probably the most mind-numbing thing I've ever done)
 8) UART Transmitter/Reciever
 9) Baud Clock Generator
 10) RS232
