@@ -30,8 +30,7 @@ NOTE : Some of the drivers will omit the consideration of debouncing
 8) UART Transmitter/Reciever
 9) Baud Clock Generator
 10) RS232
-11) Shift register
-12) Serializer
+11) Shift register/Serializer
 
 
 Additional projects will be updated whenever I'm sane and not sleepy ;) 
