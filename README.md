@@ -28,8 +28,9 @@ NOTE : Some of the drivers will omit the consideration of debouncing
 6) Debouning Asynchronous inputs
 7) 4 digit counter using 7-segment display (Probably the most mind-numbing thing I've ever done)
 8) UART Transmitter/Reciever (RS232)
-9) Baud Clock Generator
-10) Shift register/Serializer
+    a) Baud Clock Generator
+    b) Shift register/Serializer
+    c) Synchronizer
 
 
 Additional projects will be updated whenever I'm sane and not sleepy ;) 
