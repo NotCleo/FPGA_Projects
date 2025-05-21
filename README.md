@@ -38,6 +38,9 @@ NOTE : Some of the drivers will omit the consideration of debouncing
 9) Single/Double port RAM
 
 
+    Note that the buffering codes uses BRAM to store 512 samples and also the rd_addr allows the window unit to read samples sequentially.
+
+
 Additional projects will be updated whenever I'm sane and not sleepy ;) 
 
 PS using ../intelFPGA_lite/20.1/quartus/bin/quartus
