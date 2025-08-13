@@ -4,7 +4,7 @@ use ieee.NUMERIC_STD.ALL;
 
 entity frame_buffer is
     generic (
-        FRAME_SIZE : integer := 512  --samples per FFT frame
+        FRAME_SIZE : integer := 256 --Change to 512 according to calc = 4 second per image + (misc) + 8 * PS->PL shift + FIFO Buffer delay
     );
     port (
         clk          : in  std_logic;
