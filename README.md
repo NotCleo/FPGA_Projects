@@ -45,3 +45,8 @@ Additional projects will be updated whenever I'm sane and not sleepy ;)
 
 PS using ../intelFPGA_lite/20.1/quartus/bin/quartus
 PS using ../intelFPGA_lite/20.1/modelsim_ase/bin/vsim
+
+
+
+
+https://in.mathworks.com/matlabcentral/fileexchange/45833-generating-mif-files-from-images - Generating MIF files of Images
